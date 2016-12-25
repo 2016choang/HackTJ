@@ -5,5 +5,5 @@ cart by scanning the barcode of the desired item using their phones. By passing 
 and pay for their items with a connected bank account (using CapitalOne's Nessie API). Participating stores would be able to
 view and maintain databases of their products to track purchases and ensure no theft has occured. 
 
-This project was created during HackTJ 2016 using PhoneGap, HTML, CSS, JavaScript, PHP, and SQL.
+This project was created during HackTJ 2016 using PhoneGap, HTML, CSS, JavaScript, PHP, and SQLite3.
 
